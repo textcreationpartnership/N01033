@@ -119,8 +119,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:001230_0000_0FB17D382C98CF20"/>
-            <pb facs="tcp:001230_0001_0FB17D39A85CEA90" rendition="simple:additions"/>
+            <pb facs="unknown:001230_0000_0FB17D382C98CF20"/>
+            <pb facs="unknown:001230_0001_0FB17D39A85CEA90"
+                rendition="simple:additions"/>
             <p>
                <hi>The Bomb Search'd</hi> And found <hi>ſtuff'd</hi> with Falſe <hi>Ingredients,</hi> being a Juſt Confutation of an abuſive Printed <hi>Half-ſheet,</hi> calld a BOMB, originally publiſhed againſt the QUAKERS, by FRANCIS BUGG. BUT Eſpouſed and Expoſed and in <hi>print</hi> offered to be proved by JOHN TALBOT.</p>
             <p>To which is added</p>
@@ -167,7 +168,7 @@
             </p>
          </div>
          <div type="to_the_reader">
-            <pb n="3" facs="tcp:001230_0002_0FB17D3BC4ED65F8"/>
+            <pb n="3" facs="unknown:001230_0002_0FB17D3BC4ED65F8"/>
             <head>To the READER</head>
             <p>FRIENDLY READER, <hi>The unjuſt way and manner of our</hi> Ad<g ref="char:EOLhyphen"/>verſaries <hi>
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -217,7 +218,7 @@
                   <hi>Sentence</hi> or Paragraph. The Next is adding of <hi>words</hi> to <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, or send a
-<pb n="4" facs="tcp:001230_0003_0FB17D3D6EF39B88"/>Paſſage (perhaps ſomewhat ſhortly expreſs) to the ſenſe they would have it bear —And tis with ſome or all of the thoſe unfair practi<g ref="char:EOLhyphen"/>ces the generality of our <hi>Antagoniſts</hi> have treated <hi>Us</hi> and our <hi>Chriſti<g ref="char:EOLhyphen"/>an Profeſſion</hi> —I have, above moſt Men, felt the effects of this unfair dealing. And truly, many of us have cauſe to ſay with that emi<g ref="char:EOLhyphen"/>nent Servant of the LORD: <hi>Every day they wreſt our words; all their thoughts are against Us for evil,</hi> Pſalms 56: 5:</q>
+<pb n="4" facs="unknown:001230_0003_0FB17D3D6EF39B88"/>Paſſage (perhaps ſomewhat ſhortly expreſs) to the ſenſe they would have it bear —And tis with ſome or all of the thoſe unfair practi<g ref="char:EOLhyphen"/>ces the generality of our <hi>Antagoniſts</hi> have treated <hi>Us</hi> and our <hi>Chriſti<g ref="char:EOLhyphen"/>an Profeſſion</hi> —I have, above moſt Men, felt the effects of this unfair dealing. And truly, many of us have cauſe to ſay with that emi<g ref="char:EOLhyphen"/>nent Servant of the LORD: <hi>Every day they wreſt our words; all their thoughts are against Us for evil,</hi> Pſalms 56: 5:</q>
             </p>
             <q>
                <p>
@@ -239,7 +240,7 @@
             <p>
                <hi>Now the like, ſay</hi> we, <hi>have</hi> our Adverſaries <hi>done by</hi> us <hi>at this day. Upon which the ſaid</hi> Daniel Philips <hi>proceeds and truly ſaith:</hi> 
                <q>That they have misconſtrued our words, and forced them to a ſence they never intended. If any one of <hi>Us</hi> have explained his ſentiment con<g ref="char:EOLhyphen"/>cerning any <hi>Article</hi> of the <hi>Chirſtian Faith</hi> a thouſand times never ſo
-<pb n="5" facs="tcp:001230_0004_0FB17D3EE8BA29A8"/>
+<pb n="5" facs="unknown:001230_0004_0FB17D3EE8BA29A8"/>
                   <hi>Orthodoxly,</hi> that's by our oppoſers <hi>paſſed ever in ſilence,</hi> 
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -265,7 +266,7 @@
                   </gap>e,</hi> to <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> viz: the <hi>Bomb</hi> we ſuppoſe <hi>John Talbot G: K's.</hi> late tra<g ref="char:EOLhyphen"/>velling <hi>Companion</hi> cauſed here to be <hi>reprinted,</hi> because at the foot there<g ref="char:EOLhyphen"/>of here is a kind of <hi>Advertiſement</hi> ſubſcribed with <hi>his</hi> name: and the ſaid <hi>Bugg</hi> having concluded his ſaid <hi>Slanderous Bomb</hi> with these words, (viz:) lastly, <hi>I cannot enlarge but let them appear purſuant to my
-<pb n="6" facs="tcp:001230_0005_0FB17D415C5795B0"/>challenge and all theſe things and more, I offer to prove upon them, <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="6" facs="unknown:001230_0005_0FB17D415C5795B0"/>challenge and all theſe things and more, I offer to prove upon them, <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
                </hi> much more, which I refer to the next <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -362,7 +363,7 @@
                   <desc>〈◊〉</desc>
                </gap> Society.</p>
             <p>
-               <pb n="7" facs="tcp:001230_0006_0FB17D42B0823680"/>
+               <pb n="7" facs="unknown:001230_0006_0FB17D42B0823680"/>
                <hi>
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -423,7 +424,7 @@
                   </gap> for ſo our friends have ſome-times Oppoſed or refuſed to Expreſs our faith in Chriſt &amp;c: According to the too <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> and Inſcriptured Conceits which ſome oppoſes would have ob<g ref="char:EOLhyphen"/>ſerved upon us; yet the Difference betwixt us and them from the be<g ref="char:EOLhyphen"/>ginning</hi>
-               <pb n="8" facs="tcp:001230_0007_0FB17D4437608B50"/>to this day, we never underſtood to be, for that any profeſsed Faith in Chriſt's appearance, as outwardly, at <hi>Jeruſalem,</hi> His outward <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb n="8" facs="unknown:001230_0007_0FB17D4437608B50"/>to this day, we never underſtood to be, for that any profeſsed Faith in Chriſt's appearance, as outwardly, at <hi>Jeruſalem,</hi> His outward <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, Miracles, Dying for our ſins Outwardly, ſhedding His moſt glorious blood for us outwardly, Riſing for our juſtification outwardly, Aſcending into Heaven, continuing to be our Advocate and Interceſſor his coming outwardly to judge the quick and the dead at the laſt and general day of Judgment, when all that are in the graves shall hear the voice of the Son of God and come forth; thoſe that have done good to the Reſurrection of Life, and thoſe that have done evil, to the Reſur<g ref="char:EOLhyphen"/>rection of Condemnation; Juſtification by him alone, without any merit from, or by the best of our own works, but ſav'd by the Mercy of God, through the merits of his dear Son, our Lord: yet ſo as it muſt be by the waſhing of Regeneration, and renewing of the Holy Ghost Tit: 3.5 we ſay we differ not with any for that they profeſs faith in theſe things. for we teſtify to, and truly believe them to be all ſound and Chriſtian doctrines.</p>
             <p>And now friendly <hi>Reader</hi> to conclude, tho Controverſy at this time, (eſpecially about Religious matters) is in it ſelf no ways pleaſant to us, yet conſider, that as we are but in the defenſive part, ſo we look upon it <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -434,7 +435,7 @@
       </front>
       <body>
          <div type="introduction">
-            <pb n="9" facs="tcp:001230_0008_0FB17D4614EC6E18"/>
+            <pb n="9" facs="unknown:001230_0008_0FB17D4614EC6E18"/>
             <head>THE INTRODUCTION</head>
             <p>AS for <hi>JOHN TALBOT</hi>'s giving <hi>FRANCIS BUGG</hi> the Epithet of <hi>honeſt FRANCIS</hi> 
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -467,7 +468,7 @@
                   <desc>••</desc>
                </gap>
                <g ref="char:punc">▪</g> To reſolve that, the Author tells that ſhe having heard he had conformed to the Church of England, asked him the cauſe, and that his Anſwer was, <hi>what</hi>
-               <pb n="10" facs="tcp:001230_0009_0FB17D4A53B31B28"/>
+               <pb n="10" facs="unknown:001230_0009_0FB17D4A53B31B28"/>
                <hi>would you have me to do? The Statute of Twenty pound per month will be put in Execution againſt me and I have ſuffered enough already.</hi> Well, by this we may a little gueſs at his honeſty towards God. Let us next see how he hath been (as by the said Authors relation, page 57) towards men. She ſaith, upon the <hi>Biſhop of Norwich</hi> his not only reo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>mmending him as an object of Charity deſerving the bounty of well diſposed perſons, but alſo Certifying that he ap<g ref="char:EOLhyphen"/>peared to him a ſober, honeſt and induſtrious man. This laſt the ſaid Ann Dockwray saith, will <hi>be matter of Admiration to all inqui<g ref="char:EOLhyphen"/>ſitive people</hi> when the real truth of this concern is known; for be<g ref="char:EOLhyphen"/>ſides the many lies told of particular friends, and for which ſhe hath there <gap reason="illegible" resp="#PDCC" extent="4 letters">
@@ -479,7 +480,7 @@
             <p>There may (ſaith ſhe) be much more ſaid upon this accoun<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> I will inſtance but few of them <q>In or about the year 1697; He married his Daughter, made great Feaſting and Entertainments that was said to be very chargeable; and promiſed three hundred pounds portion with her upon the marriage and at the ſame time he was indebted many hundred pounds more than he was worth. He al<g ref="char:EOLhyphen"/>ſo gave Bond to make his wife a Joynture of ſome part of his, Eſtate which he hath ſince sold to his Son.</q> Thoſe things (saith ſhe) he hath confeſſed to me and others &amp;c. page 53. And as to his writing lies againſt us, ſhe saith, that when he was told of it by
-<pb n="11" facs="tcp:001230_0010_0FB17D4BC6791EA8"/>ſome friends. His anſwer was <hi>His pen would run too quick sometimes.</hi> Theſe things conſidered, we hope, we may be very well ex<gap reason="illegible" resp="#PDCC" extent="3 letters">
+<pb n="11" facs="unknown:001230_0010_0FB17D4BC6791EA8"/>ſome friends. His anſwer was <hi>His pen would run too quick sometimes.</hi> Theſe things conſidered, we hope, we may be very well ex<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>ed for ſaying what we did in anſwer to <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -520,7 +521,7 @@
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>cited in this Appendix, under the penalty of being entituled to thoſe re<g ref="char:EOLhyphen"/>cited
-<pb n="12" facs="tcp:001230_0011_0FB17D4D27B2C3F8"/>and manifeſt Doctrines of theirs, which tho' held by them; yet too much oppoſed by you both in Doctrine and Practice? Surely, if they ſhould ſo put you to it, it would be a great pinch upon you; your doctrines and practices in thoſe reſpects being so manifeſtly <hi>contray to thoſe famous Reformers;</hi> as well as it is con<g ref="char:EOLunhyphen"/>trary to ours: whereas moſt of thoſe things you so loudly charge againſt us as hereſies and blaſphemies &amp;c: are your own <gap reason="illegible" resp="#PDCC" extent="4 letters">
+<pb n="12" facs="unknown:001230_0011_0FB17D4D27B2C3F8"/>and manifeſt Doctrines of theirs, which tho' held by them; yet too much oppoſed by you both in Doctrine and Practice? Surely, if they ſhould ſo put you to it, it would be a great pinch upon you; your doctrines and practices in thoſe reſpects being so manifeſtly <hi>contray to thoſe famous Reformers;</hi> as well as it is con<g ref="char:EOLunhyphen"/>trary to ours: whereas moſt of thoſe things you so loudly charge againſt us as hereſies and blaſphemies &amp;c: are your own <gap reason="illegible" resp="#PDCC" extent="4 letters">
                   <desc>••••</desc>
                </gap>a<g ref="char:EOLhyphen"/>tions, perverſion or down<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -556,7 +557,7 @@
                <hi>Becauſe Christ dwelleth not without us but dwelleth in us</hi> Now would it not <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> charity to tell the Calviniſt people that they deny Chriſt to be <hi>with<g ref="char:EOLhyphen"/>out</hi>
-               <pb n="13" facs="tcp:001230_0012_0FB17D4F058734F8"/>
+               <pb n="13" facs="unknown:001230_0012_0FB17D4F058734F8"/>
                <hi>us?</hi> Surely it would; yet it's like ſuch a ſlip as that can ſcarce be found in all, or any of our friends books, at leaſt uncor<g ref="char:EOLhyphen"/>rected.</p>
             <p>And now we ſhall deſire the Candid Reader, that in reading the following charges againſt theſe men, and our obſervations on them that he read and conſider them very impartially; but before we re<g ref="char:EOLhyphen"/>cite them we alſo requeſt the Reader that he would be Pleaſed to take the advice given by theſe eminent <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -605,7 +606,7 @@
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rges and begin firſt with the <hi>Bomb;</hi> the charges in which is J: T's task now particularly to
-<pb n="14" facs="tcp:001230_0013_0FB17D502BF305B8"/>prove; in which altho' we have corrected above twenty to them, yet we find but <hi>four</hi> places quoted by them out of our friends books, and they groſly abuſed; and there being ſo many charges and ſo few quotations produced as proof: it therefore we had no other reaſons to reject J: T's printed challenge, yet that of it ſelf had been ſufficient for now ſhould we <hi>weigh every word, examins the Context &amp; Subject which it treats on, and why it was ſo written?</hi> How ſhould we have the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="14" facs="unknown:001230_0013_0FB17D502BF305B8"/>prove; in which altho' we have corrected above twenty to them, yet we find but <hi>four</hi> places quoted by them out of our friends books, and they groſly abuſed; and there being ſo many charges and ſo few quotations produced as proof: it therefore we had no other reaſons to reject J: T's printed challenge, yet that of it ſelf had been ſufficient for now ſhould we <hi>weigh every word, examins the Context &amp; Subject which it treats on, and why it was ſo written?</hi> How ſhould we have the<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> meaning interpreted by the plain and <hi>viſible deſign of the Author in his whole diſcourſe,</hi> as the above per<g ref="char:EOLhyphen"/>ſons have laid down as a right and juſt method to be taken in read<g ref="char:EOLhyphen"/>ing of books if we know not a reaſonable time afore-hand what the books and pages are in order thereto? but ſeeing, as to the Bomb, it is otherwiſe, our method therefore of ſhewing our books, as herein after advertiſed, will have the leſs effect in re<g ref="char:EOLhyphen"/>lation to ſatisfy the inquiſitive and unprejudiced reader; there<g ref="char:EOLhyphen"/>fore, as to that, we can but take the charges as they have gi<g ref="char:EOLhyphen"/>ven them, which are as followeth.</p>
             <p>
@@ -619,13 +620,13 @@
             <p>
                <label>Anſ:</label> This with many other things have been ſo often anſwered that we think it meerly needleſs to ſay much more of it; and as to the word Duſt, it was no ways ſpoken in contempt of the Ho<g ref="char:EOLhyphen"/>ly Scriptures; but it was written againſt ſome few of old who ran so far into an extteam as to <hi>Deify as it were the very letter of the Scriptures,</hi> which, to be ſure, may be termed Duſt; and that there were ſuch Prieſts ſee <hi>G: F's Great Myſtery page 261;</hi> how one Roger Atkins affirmed <hi>That the Letter of the Scripture is God.</hi> And Richard Stoaks affirmed that the <hi>Scripture is God.</hi> And Jeremiah Jves affirmed, it was an error to ſay, the Letter of the Scripture <hi>is carnal.</hi> ibid: page 111.</p>
             <p>Now, tho' our friends in thoſe days have ſeemed to ſome to run ſomething into an extream by uſing ſuch expreſſions as they did
-<pb n="15" facs="tcp:001230_0014_0FB17D51AA9D4958"/>in oppoſition to ſuch extreams of thoſe ſort of prieſts, whoſe ſaid crooked expreſſions did need ſtraightning: we hope they are not to be condemned for uſing endeavours as they did for that end. As for the word Death,<note place="margin">Vind: Veritatis, page, 192.</note> as D: Philips ſaith, what difference is there between <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="15" facs="unknown:001230_0014_0FB17D51AA9D4958"/>in oppoſition to ſuch extreams of thoſe ſort of prieſts, whoſe ſaid crooked expreſſions did need ſtraightning: we hope they are not to be condemned for uſing endeavours as they did for that end. As for the word Death,<note place="margin">Vind: Veritatis, page, 192.</note> as D: Philips ſaith, what difference is there between <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>aying, the Letter killeth, and the Letter is death; for the <hi>Apoſtle in Cor: 2.3 6. ſaith, The Letter killeth;</hi> and is not the ſenſe the ſame, tho' differently worded; and ſurely as the Apoſtle uſed not any ſlighting expreſſion of the Scripture; no more, we are well ſatisfied, did G: F: &amp;c. As for the words, Serpents meat, ſee alſo what the ſaid D: P: ſhews us in the ſame page, how the adverſary abuſively joyned thoſe following words together; which are not ſo in G: F's book viz. Your word is carnal. The Letter and the Light is carnal. The Letter, and ſo duſt is the Serpents meat &amp;c. Now to this D: P: aptly anſwers and ſayes, whereas, in that page there are twelve lines between, The Light is carnal the letter, and ſo duſt is the Serpents meat: in this in<g ref="char:EOLhyphen"/>termediate ſpace G: F: treats of Infants Baptiſm and the Lord's Supper: from theſe two Subjects coming between two Propoſiti<g ref="char:EOLhyphen"/>ons. I conclude, no man that underſtands a Pro<g ref="char:EOLhyphen"/>poſition will ſay,<note place="margin">Sober Expoſtula<g ref="char:EOLhyphen"/>tion pa: 104.</note> 
                <hi>So duſt is the Serpents meat is pre<g ref="char:EOLhyphen"/>dicated of the Letter, conſequently no wayes reſpects the Scriptures.</hi>
             </p>
             <p>As for thoſe words <hi>Beaſtly ware,</hi> we are, as to that, alſo much abuſed, G: W: ſaith. <q>I have examined the ſaid book out of which the ſaid expreſſions have been pretended to be taken, I find no ſuch groſs expreſſions, as calling the Scripture, beaſtly ware, but divers ſevere reflections upon the co<g ref="char:EOLhyphen"/>vetous, perſecuting prieſts in thoſe days; writ by ſome priſoners at York-Caſtle, 1653:<note place="margin">A brief Diſco<g ref="char:EOLhyphen"/>very, pa: 9.</note> and what is there called beaſtly ware, is not the Scriptures<g ref="char:punc">▪</g> but what Ba<g ref="char:EOLhyphen"/>bylons Merchants <hi>ſell for a large price (i: e.)</hi> A rabble of no<g ref="char:EOLhyphen"/>tions
-<pb n="16" facs="tcp:001230_0015_0FB17D540CC3E608"/>heaped up in the brain all the week; and which they ſell for lucres ſake &amp;c: calling them alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="16" facs="unknown:001230_0015_0FB17D540CC3E608"/>heaped up in the brain all the week; and which they ſell for lucres ſake &amp;c: calling them alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> merchants, coſtly Sermon-makers who perſecuted the pure truth the Saints lived in: but not a word of calling <hi>the Scriptures beaſtly ware;</hi> and I am perſwaded ſuch blaſphemy and contempt of the Holy Scriptures was far from the thoughts of the ſaid priſoners &amp; that which they would <hi>have abominated and rejected with abhor<g ref="char:EOLhyphen"/>rence, if they had been charged therewith.</hi>
                </q>
@@ -653,7 +654,7 @@
                </gap> The Letter of the Scripture, <hi>Paper and ink,</hi> we cannot ſay is ſpiritual, but that which it <hi>ſpeaks of is ſpi<g ref="char:EOLhyphen"/>ritual.</hi>
             </p>
             <p>
-               <pb n="17" facs="tcp:001230_0016_0FB17D560464BD98"/>And Edward Burrough ſaith,<note place="margin">
+               <pb n="17" facs="unknown:001230_0016_0FB17D560464BD98"/>And Edward Burrough ſaith,<note place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> page, 104.</note> the Scripture is a declaration of the word, and what is written of, is the word [mark that] Again he ſaith, I do honour the Scrip<g ref="char:EOLhyphen"/>ture <hi>above other writings,</hi> and give them the authority,<note place="margin">Ibide<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -666,7 +667,7 @@
                <label>Bomb.</label> 2dly. <hi>They deny the ever-bleſſed Trinity in a moſt blaſphemous manner.</hi>
             </p>
             <p>
-               <pb n="18" facs="tcp:001230_0017_0FB17D56EBCC72B8"/>
+               <pb n="18" facs="unknown:001230_0017_0FB17D56EBCC72B8"/>
                <label>Anſ:</label> This F: B: produced againſt G: F: concerning which take G: W<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> 
@@ -732,7 +733,7 @@
                </gap> book <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> to above, alſo expreſly in our name ſaith <q>That we believe in
-<pb n="19" facs="tcp:001230_0018_0FB17D586FE5CB88"/>one Lord Jeſus Chriſt his [ſpeaking above of God Almighty] ONELY SON and expreſs Image of his Subſtance, who took upon him fleſh and was in the world, and in Life, Doctrine, Miracles, Death, Reſurrection and Aſcenſion, and Mediation perfectly did and doth continue to do the will of God, to whoſe holy Life, Power, Mediation and Blood we only aſcribe our Sanctification, Juſtification, Redemption and perfect Salvation.</q> He that can read this and yet ſay <hi>we deny Jeſus to be Chriſt the Son of God,</hi> muſt ſurely be very much blinded with prejudice.</p>
+<pb n="19" facs="unknown:001230_0018_0FB17D586FE5CB88"/>one Lord Jeſus Chriſt his [ſpeaking above of God Almighty] ONELY SON and expreſs Image of his Subſtance, who took upon him fleſh and was in the world, and in Life, Doctrine, Miracles, Death, Reſurrection and Aſcenſion, and Mediation perfectly did and doth continue to do the will of God, to whoſe holy Life, Power, Mediation and Blood we only aſcribe our Sanctification, Juſtification, Redemption and perfect Salvation.</q> He that can read this and yet ſay <hi>we deny Jeſus to be Chriſt the Son of God,</hi> muſt ſurely be very much blinded with prejudice.</p>
             <p>As for the <hi>Bomb's</hi> fourth charge about Baptiſm and the Supper he meerly begs the queſtion in ſaying we neglect, contemn and deny the Sacred Ordinances of the Goſpel, namely Baptiſm &amp;c: for we do not underſtand that by Scripture thoſe outward things, as eating bread and drinking wine, and ſprinkling Infants having ſureties called God-fathers and God-mothers to promiſe that the child ſhall forſake the Devil and all his works &amp;c: were any of the Ordinances of the Goſpel: Concerning all which having already anſwered ſo many Objections about it, we ſee no need to ſay more of it here. <hi>But ſee R: Barclay's Apology, and Thomas Lawſon's Treatiſe of Baptiſm &amp;c.</hi>
             </p>
             <p>
@@ -746,7 +747,7 @@
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>n the leaſt, to undervalue the Death and Sufferings of our Saviour, nor to ſet up or compare our friends Sufferings to his, as in themſelves; <hi>but that they were more unjuſt,</hi>
-               <pb n="20" facs="tcp:001230_0019_0FB17D59F7816960"/>
+               <pb n="20" facs="unknown:001230_0019_0FB17D59F7816960"/>
                <hi>according to the Laws of men:</hi> Thoſe Perſecutors who put our Sa<g ref="char:EOLhyphen"/>viour to death of old having a Law, as they thought, for what they did, ſaying we have a Law, and by our Law he ought to die: And in Queen Marie's days they perſecuted according to their unjuſt Laws; but thoſe Perſecutors that <hi>Edward Burrough</hi> ſpoke of,<note place="margin">E. B's Works page 273.</note> being about the year 1657 used an Arbitrary Power condemning our friends without Law <hi>for ſay<g ref="char:EOLhyphen"/>ing THEE AND THO<g ref="char:V">Ʋ</g>; and for not pulling off the Hat &amp;c:</hi> For which they had not ſo much as pretence of Law. Hereby, ſaith he, it appears the ſufferings to be more unjuſt (viz:) in the Perſecutors (meaning than in the days of Chriſt, the Abo<g ref="char:EOLhyphen"/>ſtles and Martyrs) becauſe what the Perſecutors of old did to the people of God, they did by a Law, and by the due execution of a Law; but now many are cauſed to ſuffer deeply, whom the tranſgreſſion of no Law, good or bad (ſaith he) can be charged againſt, and others ſuffer without the due execution of a Law. Again (ſaith he) many now ſuffer cruel things about trivial and fooliſh matters, as for not pulling off a hat, or for theeing of men. Again (ſaith he) hundreds have ſuffered upon ſuſpicion when nothing at all can be charged againſt them, and this is contrary to Magna Charta. Is it not clear that theſe words of E: B's are very naturally conſtrued above to be his intent and meaning? tho' we ſtill ſay they were not ſafely worded: How<g ref="char:EOLhyphen"/>ever it doth not follow from his, or any other friends words or ſentences miſtaken or miſworded, that therefore they are not true Miniſters &amp;c: <hi>as to the main of their miniſtry;</hi>
                <note place="margin">1 Sam: 16: 6 7.</note> for was not the Prophet Samuel miſtake <hi>when he took Eliab to be the Lord's Anointed?</hi> Was not that Eminent Apoſtle, Peter ſomething blameable when Paul withſtood him to his face; be<g ref="char:EOLhyphen"/>cauſe, ſaith he, <hi>he was to be blamed, Gal: 2 11:</hi> Yet ſurely theſe men were friends of God Miniſters of Chriſt <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -754,7 +755,7 @@
             <p>As for his ſaying, we over-value our own writings. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ow
-<pb n="21" facs="tcp:001230_0020_0FB17D5C4122F078"/>knows he that? for though ſometimes our Friends, writing by way of caution or exhortation to any, have ſaid, To you this is the word of the Lord, or the like; It is no more to be underſtood of the letter, or paper and ink (which was what our friends op<g ref="char:EOLhyphen"/>poſed to the word of God) than the word of the Lord thro' the good men of old, and Prophets was meant only ſuch when they ſo often cried to the people, ſaying, <hi>Thus ſaith the Lord &amp;c:</hi> neither did they intend that it was the Letter, Paper and Ink that was the word of the Lord; but it was the Spirit of Chriſt who is the Word of God ſpeaking in and through them to the people; and this may ſurely be ſafely ſaid in a degree and meaſure by ſuch through whom the Spirit of Chriſt ſpeaks to the people in this day, but we do not ſay in the ſame degree, for we prefer the Holy Mens writings called the Scripture <hi>to all the books extant in the world,</hi>
+<pb n="21" facs="unknown:001230_0020_0FB17D5C4122F078"/>knows he that? for though ſometimes our Friends, writing by way of caution or exhortation to any, have ſaid, To you this is the word of the Lord, or the like; It is no more to be underſtood of the letter, or paper and ink (which was what our friends op<g ref="char:EOLhyphen"/>poſed to the word of God) than the word of the Lord thro' the good men of old, and Prophets was meant only ſuch when they ſo often cried to the people, ſaying, <hi>Thus ſaith the Lord &amp;c:</hi> neither did they intend that it was the Letter, Paper and Ink that was the word of the Lord; but it was the Spirit of Chriſt who is the Word of God ſpeaking in and through them to the people; and this may ſurely be ſafely ſaid in a degree and meaſure by ſuch through whom the Spirit of Chriſt ſpeaks to the people in this day, but we do not ſay in the ſame degree, for we prefer the Holy Mens writings called the Scripture <hi>to all the books extant in the world,</hi>
             </p>
             <p>We now come to other charges againſt us in the Bomb, which we expect J: Talbot ſhould alſo prove as publickly as there char<g ref="char:EOLhyphen"/>ged, or elſe that he ſhould as publickly acknowledge he hath wronged us; ſeeing he hath ſo far eſpouſed it, as to offer to prove it. The firſt is.</p>
             <p>
@@ -769,7 +770,7 @@
                   </gap> though contrary to what they conſtantly profeſs and declare;</hi> but bleſſed be the Lord our thoughts excuſe us in this <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>; and hereby we know we are in the Truth and that the Bomb's charges are
-<pb n="22" facs="tcp:001230_0021_0FB17DE17C7477C0"/>falſe in this matter, becauſe our hearts condemn us not, for which cauſe we have confidence in God; which confidence we hope and deſire, all the attempts and ſtratag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="22" facs="unknown:001230_0021_0FB17DE17C7477C0"/>falſe in this matter, becauſe our hearts condemn us not, for which cauſe we have confidence in God; which confidence we hope and deſire, all the attempts and ſtratag<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ms of the adverſary will never be able to ſhake. Are ſuch men fit to detect the want of Charity in others, who are themſelves in ſuch a ſuperlative de<g ref="char:EOLhyphen"/>gree of uncharitableneſs toward others?</p>
             <p>
@@ -792,7 +793,7 @@
                </gap> Apoſtle tells him <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> by taking heed to himſelf, and continuing in his doctrine, he ſhould
-<pb n="23" facs="tcp:001230_0022_0FB17D5F35082048"/>
+<pb n="23" facs="unknown:001230_0022_0FB17D5F35082048"/>
                <hi>ſave both himſelf and thoſe that hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>d him:</hi> And tho' no man ought to aſſume the name of the Lord Jeſus Chriſt; yet we ſee that holy man Stephen called Joſhua that led the Children of Iſ<g ref="char:EOLhyphen"/>rael over Jordan &amp;c: <hi>by the name of Jeſus, Asts</hi> 7.45.</p>
@@ -813,14 +814,14 @@
             </p>
             <p>
                <label>Anſ:</label> Where is now the Bomb's charity; thus by whole-ſale, with his fooliſh and overtly diſtinction, to unchriſtian us; how<g ref="char:EOLhyphen"/>ever, we are no more convinced than the Bomb hath proved that when we dine it's our bounden duty to ſay Good Lord par<g ref="char:EOLhyphen"/>don our ſins &amp;c: There is no precept nor practice for it in all
-<pb n="24" facs="tcp:001230_0023_0FB17D60B5C6DC68"/>the Scripture; however it's not the words but the cuſtom and manner of it, without waiting for the motion of life to a duty, that occaſions our teſtimony againſt joyning with it, and ſeeing they ſay they are in duty bound to uſe the like words when they go to meals, how is it then that ſo many of themſelves ſo often ſit down thereto <hi>and uſe no words at all, and others not thoſe words?</hi> neither are thoſe words to be found in any of their Graces which they have ordered to be ſaid before and after mean: but y<hi rend="sup">t</hi> we ſay, to pray for Jeſus Chriſt's ſake, <hi>is to pray, petition and give thanks in the name, and for the ſake of a dead God,</hi> is like the reſt of his nauſeous ſtuff and abuſes. Edward Burrough ſaith not a word of praying in the name of Jeſus, nor for Chriſt's ſake in either of the pages cited by the Bomb: It's true in 1655 he writ ſharply againſt the prieſts of that time, who were ſo often <hi>praying and petition<g ref="char:EOLhyphen"/>ing</hi> the then powers againſt our friends, as in the Weſtmorland petition may be ſeen; which petitions and prayers were too much hearkened unto by them: which cauſed our friends to be greatly perſecuted by thoſe powers; therefore it's no wonder we find <hi>Edward Burrough in page</hi> 101, telling them, as he doth, that the beaſt was riſen in defence of them, and then told them how they prayed <hi>to their dead Gods, and preach'd to their ignorant people againſt God's heritage:</hi> But not a word of a dead God, or of praying to God or Chriſt or Jeſus do we find in that page, nor in any part of that Chapter, nor in any part of page 518 cited alſo by the Bomb. O what do you, PRETENDED CONTENDERS FOR THE FAITH and Myſteries of the Goſ<g ref="char:EOLhyphen"/>pel, think will be the end of your thus abuſing and belying men!</p>
+<pb n="24" facs="unknown:001230_0023_0FB17D60B5C6DC68"/>the Scripture; however it's not the words but the cuſtom and manner of it, without waiting for the motion of life to a duty, that occaſions our teſtimony againſt joyning with it, and ſeeing they ſay they are in duty bound to uſe the like words when they go to meals, how is it then that ſo many of themſelves ſo often ſit down thereto <hi>and uſe no words at all, and others not thoſe words?</hi> neither are thoſe words to be found in any of their Graces which they have ordered to be ſaid before and after mean: but y<hi rend="sup">t</hi> we ſay, to pray for Jeſus Chriſt's ſake, <hi>is to pray, petition and give thanks in the name, and for the ſake of a dead God,</hi> is like the reſt of his nauſeous ſtuff and abuſes. Edward Burrough ſaith not a word of praying in the name of Jeſus, nor for Chriſt's ſake in either of the pages cited by the Bomb: It's true in 1655 he writ ſharply againſt the prieſts of that time, who were ſo often <hi>praying and petition<g ref="char:EOLhyphen"/>ing</hi> the then powers againſt our friends, as in the Weſtmorland petition may be ſeen; which petitions and prayers were too much hearkened unto by them: which cauſed our friends to be greatly perſecuted by thoſe powers; therefore it's no wonder we find <hi>Edward Burrough in page</hi> 101, telling them, as he doth, that the beaſt was riſen in defence of them, and then told them how they prayed <hi>to their dead Gods, and preach'd to their ignorant people againſt God's heritage:</hi> But not a word of a dead God, or of praying to God or Chriſt or Jeſus do we find in that page, nor in any part of that Chapter, nor in any part of page 518 cited alſo by the Bomb. O what do you, PRETENDED CONTENDERS FOR THE FAITH and Myſteries of the Goſ<g ref="char:EOLhyphen"/>pel, think will be the end of your thus abuſing and belying men!</p>
             <p>
                <label>Bomb.</label> 
                <hi>Your whole buſineſs is to deceive.</hi>
             </p>
             <p>
                <label>Anſ:</label> When he hath prov'd this as publickly as charged, we ſhall then grant he hath done good ſervice for friends; but till then we ſhall ſit down well aſſured of the contrary; how<g ref="char:EOLhyphen"/>ever,
-<pb n="25" facs="tcp:001230_0024_0FB17D628C224320"/>no honeſt or judicious man ſhould ſo publickly and in ſuch a laviſh manner accuſe his neighbours, but ſhould as publickly, when required by the accuſed, either make good what he ſaith, <gap reason="illegible" resp="#PDCC" extent="1 span">
+<pb n="25" facs="unknown:001230_0024_0FB17D628C224320"/>no honeſt or judicious man ſhould ſo publickly and in ſuch a laviſh manner accuſe his neighbours, but ſhould as publickly, when required by the accuſed, either make good what he ſaith, <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> as publickly acknowledge his fault: One of which we expect from him, as he would approve himſelf ſuch; for we utterly <hi>deny this laviſh and monſtrous charge.</hi>
             </p>
@@ -846,7 +847,7 @@
                   <desc>•</desc>
                </gap>a<g ref="char:EOLhyphen"/>bles, ſee above.</p>
             <p>
-               <pb n="26" facs="tcp:001230_0025_0FB17D63A875E130"/>Note that tho' that one man Solomon Eccles dropp'd ſuch an unjuſtifiable expreſſion, as that the blood of Chriſt was no more than the blood of another Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="26" facs="unknown:001230_0025_0FB17D63A875E130"/>Note that tho' that one man Solomon Eccles dropp'd ſuch an unjuſtifiable expreſſion, as that the blood of Chriſt was no more than the blood of another Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>nt; yet we do not find but our friends upon all occaſions diſown the paſſage, ſee this Introduction.</p>
             <p>
@@ -872,7 +873,7 @@
                </gap> publickly to prove it, or ſo acknowledge <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> fault: The
-<pb n="27" facs="tcp:001230_0026_0FB17D66D5E2EBA8"/>tendency of our Religion is rather to purify and cha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="27" facs="unknown:001230_0026_0FB17D66D5E2EBA8"/>tendency of our Religion is rather to purify and cha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ge mankind by the Spirit of Judgment and burning in the inward parts &amp;c: but not to debauch them. O horrid Slander! And our owning Jeſus Chriſt <hi>is in much plainneſs and ſincerity.</hi>
             </p>
@@ -910,7 +911,7 @@
                <hi>And ſince the Quaker Prophets have plainly declared in print, their averſion to gave liberty of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>onſcience to the Epiſcopal Church
-<pb n="28" facs="tcp:001230_0027_0FB17D6834FA0300"/>
+<pb n="28" facs="unknown:001230_0027_0FB17D6834FA0300"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> works of Richard Hubberthorn pa.</hi> 228. <hi>Edward Burroughs works p<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -932,7 +933,7 @@
                   <desc>•</desc>
                </gap>earing Miniſter and Prophets <hi>that are not for giving Liberty of Conſcience,</hi> which indeed is in it ſelf a good caution; be<g ref="char:EOLhyphen"/>cauſe Perſecuting Miniſters cannot be good Miniſters; for it's thoſe who walk after the fleſh that perſecute thoſe who are walking af<g ref="char:EOLhyphen"/>ter the Spirit and they that walk after the fleſh cannot pleaſe God; but the true Miniſters exhorted people to live after the Spirit, and if any oppoſed, they were meekly to inſtruct thoſe that oppoſed themſelves: but it's no where ſaid in Scripture that they were to perſecute them.</p>
             <p>Now we think the right application of this ſhould deeply af<g ref="char:EOLhyphen"/>fect divers of the Prieſts of our times, who are frequently to this day <hi>Perſecuting abundance of conſcientious people who tho' they do not joyn with them nor go to hear them yet theſe perſecutions are only be<g ref="char:EOLhyphen"/>cauſe for Conſcience ſake they cannot comply with the unchriſtian way of forcing men to maintain them.</hi> So that according to their <hi>own ar<g ref="char:EOLhyphen"/>gument</hi> (and a good one in it ſelf it is) all people may eſteem that a juſtifiable reaſon (if there were no other) not <hi>to hear them;</hi> but this is not all, for as in other places they perſecute us for the above cauſe, ſo both here and there too many of them moſt grievouſly abuſe and belye us, not only as above is ſhewn but alſo <hi>in this very paſſage,</hi> for there is no ſuch thing as any averſion in any of our Prophets as he calls them) to give liberty of Conſcience to the Epiſcopal Church in either of the ſaid pages. Edward Burrough's 615 page is an anſwer to the Anabaptiſts and not one word <hi>againſt liberty of Conſcience,</hi> either to them or to the Ediſcopal Church or any Church or people whatſoever. And Richard Hubberthorn is ſo far from ſhewing an averſion to liberty of Conſcience to any, that he much blames his then Adverſaries who were alſo Anabap<g ref="char:EOLhyphen"/>tiſts
-<pb n="29" facs="tcp:001230_0028_0FB17D69AA815130"/>for that they were not for tolerating all perſwaſions, and con<g ref="char:EOLhyphen"/>tinuing his diſcourſe to page 31. there tell them, that if they had been of Chriſt's Spirit they would have profeſſed toleration and not deſtruction <hi>to all perſons in matter of religion:</hi> So that the Bomb is <hi>as falſe in this matter as it's argument is good againſt going to hear thoſe who are averſe to give liberty of Conſcience.</hi>
+<pb n="29" facs="unknown:001230_0028_0FB17D69AA815130"/>for that they were not for tolerating all perſwaſions, and con<g ref="char:EOLhyphen"/>tinuing his diſcourſe to page 31. there tell them, that if they had been of Chriſt's Spirit they would have profeſſed toleration and not deſtruction <hi>to all perſons in matter of religion:</hi> So that the Bomb is <hi>as falſe in this matter as it's argument is good againſt going to hear thoſe who are averſe to give liberty of Conſcience.</hi>
             </p>
             <p>
                <label>Bomb.</label> 
@@ -951,7 +952,7 @@
                <hi>Meer ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ff impoſed upon the people,</hi> as if thoſe famous Mar<g ref="char:EOLhyphen"/>tyrs ſuffered in the flames for maintaining any of thoſe things con<g ref="char:EOLhyphen"/>cerning which you and we differ, and therefore concerning which we query. Did thoſe famous Martyrs ſuffer in the flames for that they held ſprinkling Infants, having God-fathers and God-mo<g ref="char:EOLhyphen"/>thers ſo called and for taking that called the Sacrament and for cal<g ref="char:EOLhyphen"/>ling them Goſpel ordinances? ſurely no; but for that they did not do it <hi>in the popiſh way and manner.</hi> Did they ſuffer for that they held Oathes to be lawful? ſurely no; but ſome of them <hi>rather the contrary.</hi> Did they ſuffer in the flames for maintaining a common Liturgy? or was it not rather for not uſing it after the <hi>popiſh way and manner?</hi> Did they ſuffer in the flames for hold<g ref="char:EOLhyphen"/>ing <hi>viſible Prieſthood under the Goſpel?</hi> or for maintaining that none ſhould publickly teach or preach to the people or be Mini<g ref="char:EOLhyphen"/>ſters,
-<pb n="30" facs="tcp:001230_0029_0FB17D6B2AA70D58"/>but ſuch as had received an outward Ordination from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="30" facs="unknown:001230_0029_0FB17D6B2AA70D58"/>but ſuch as had received an outward Ordination from <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> Biſhop <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -1034,7 +1035,7 @@
                </gap> can be no rule to them; now what is all this but to ſay they ſeriouſly declare th<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>
-               <pb n="31" facs="tcp:001230_0030_0FB17D6CA7105DC0"/>have acted according to a rule that can be no rule to them, O MONSTROUS CONFUSION and Darkneſs of theſe learned Rectors in their dark attempts againſt the true Light of Chriſt, who enlighteneth every man that cometh into the World and which Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="31" facs="unknown:001230_0030_0FB17D6CA7105DC0"/>have acted according to a rule that can be no rule to them, O MONSTROUS CONFUSION and Darkneſs of theſe learned Rectors in their dark attempts againſt the true Light of Chriſt, who enlighteneth every man that cometh into the World and which Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>n was ſent to <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -1059,7 +1060,7 @@
                </gap>ly teſtified againſt, as contrary to the nature of the Goſp<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>-Covenant: <q>Their Arguments (ſaith the ſaid Author) as much as they are
-<pb n="32" facs="tcp:001230_0031_0FB17D7024501CB0"/>exploded now were the <hi>bottom of the Reformation, and thoſe upon whoſe foundation we now <gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="32" facs="unknown:001230_0031_0FB17D7024501CB0"/>exploded now were the <hi>bottom of the Reformation, and thoſe upon whoſe foundation we now <gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>and, did venture their Lives their Fortunes and their Souls hereupon:</hi>
                </q> So that, according to which it appears that the Reformation and the bottom upon which thoſe firſt Reformers ſtood, was not founded upon, but againſt that which you ſince plead for and practice (to wit) Perſonal Suc<g ref="char:EOLhyphen"/>ceſſion, Outward Ordinatination, Reſtrained preaching with more too tedious here to mention.</p>
@@ -1083,7 +1084,7 @@
                </gap>oneſt people (under pretence of doing it) by falſe accuſations contrary to the Goſpel and common Morality.</p>
          </div>
          <div type="appendix">
-            <pb n="33" facs="tcp:001230_0032_0FB17D71287C9020"/>
+            <pb n="33" facs="unknown:001230_0032_0FB17D71287C9020"/>
             <head>AN APPENDIX &amp;c.</head>
             <p>It's no wonder <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -1109,7 +1110,7 @@
                </gap> and that <hi>this Light, this treaſure we have in our <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>arthen veſſel;</hi> and that it ſhineth <hi>in our hearts</hi> to give us the knowledge of God in the face of Ieſus Chriſt.<note place="margin">2 Cor: 4: 6, 7.</note> We ſay, altho' we firmly believe this according to Scrip<g ref="char:EOLhyphen"/>ture;
-<pb n="34" facs="tcp:001230_0033_0FB17D72CA04F8D0"/>and tho' we believe this to be the inward and ſpiritual appearance of our Lord Jeſus Chriſt; yet, as we always have, and if we ſee ſervice for it, may produce a cloud of witneſſes out of our ancient and modern friends works, that we do as firmly believe alſo in his viſible and <hi>out<g ref="char:EOLhyphen"/>ward appearance,</hi> in his <hi>outward</hi> Birth, Miracles, Dying for our ſins, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+<pb n="34" facs="unknown:001230_0033_0FB17D72CA04F8D0"/>and tho' we believe this to be the inward and ſpiritual appearance of our Lord Jeſus Chriſt; yet, as we always have, and if we ſee ſervice for it, may produce a cloud of witneſſes out of our ancient and modern friends works, that we do as firmly believe alſo in his viſible and <hi>out<g ref="char:EOLhyphen"/>ward appearance,</hi> in his <hi>outward</hi> Birth, Miracles, Dying for our ſins, <gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>ing for our Juſtification, Aſcending into heaven, Coming to judge the quick and the dead at the great and general day of Judgment; and that he is our Advocate and Interceſſor, <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -1145,7 +1146,7 @@
                </gap>render us to the world, in relation to our faith about thoſe, and ſome other Goſpel Truths, is to <hi>amuſe the world with wrong notions of our difference,</hi> that ſo peoples time and thoughts which they ſpend concerning us might be taken up therewith ſo as to be kept th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> more from employing them up<g ref="char:EOLhyphen"/>on that which we ſay and own to be, <hi>and are the real differences between
-<pb n="35" facs="tcp:001230_0034_0FB17D7430C06C48"/>us:</hi> as being not only their having and maintaining practices and Do<g ref="char:EOLhyphen"/>ctrines unneceſſary and unſcriptural, but that the moſt material of thoſe we now produce are alſo againſt the Doctrine and Judgment of divers ancient Proteſtants and Fathers, as we ſhall herein after make plainly to appear; but firſt we ſhall ſpeak a little <hi>about Goſpel Baptiſm, the Supper [ſo called] Goſpel-Covenant, Worſhip &amp;c:</hi> for the ſatisfaction of the ſober Enquirer.</p>
+<pb n="35" facs="unknown:001230_0034_0FB17D7430C06C48"/>us:</hi> as being not only their having and maintaining practices and Do<g ref="char:EOLhyphen"/>ctrines unneceſſary and unſcriptural, but that the moſt material of thoſe we now produce are alſo againſt the Doctrine and Judgment of divers ancient Proteſtants and Fathers, as we ſhall herein after make plainly to appear; but firſt we ſhall ſpeak a little <hi>about Goſpel Baptiſm, the Supper [ſo called] Goſpel-Covenant, Worſhip &amp;c:</hi> for the ſatisfaction of the ſober Enquirer.</p>
             <p>And firſt, As for <hi>Water-Baptiſm,</hi> Eating and Drinking <hi>Bread and Wine</hi> (which is called the Lord's Supper) which ſome ſeem zealously to uphold, and call Sacraments &amp;c: As we find not that word in all the Scripture; ſo neither do we find that ever thoſe things were laid down by Chriſt or his Apoſtles as Goſpel Ordinances, or to continue to the end of the world; tho' we find that in the beginning, or firſt breaking forth of the Goſpel Diſpenſation ſome did practiſe them: ſo did they alſo <hi>Circurciſion, Purification, keeping of Eaſter Anointing <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>, Ab<g ref="char:EOLhyphen"/>ſtaining from blood, Waſhing of fee<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1156,7 +1157,7 @@
                         <desc>•••</desc>
                      </gap>s,</hi> which were but the ſhadows; and they diſcontinued and did forſake the <hi>beſt things, even that which was the ſubſtance of Life it ſelf &amp;</hi>
                </q> There<g ref="char:EOLhyphen"/>fore, as he there ſaith, the continuance of a thing cannot ſimply prove the neceſſity of it, which if it could; then Circumciſion, Anointing
-<pb n="36" facs="tcp:001230_0035_0FB17D75BB058328"/>with Oyl, waſhing of feet &amp;c: are ſtill to continue no more than we do that of Water Baptiſm &amp;c: We know that while the outward Temple at Jeruſalem was the place appointed of God for worſhip to be made, that thoſe offerings then stood only in <hi>meats,</hi>
+<pb n="36" facs="unknown:001230_0035_0FB17D75BB058328"/>with Oyl, waſhing of feet &amp;c: are ſtill to continue no more than we do that of Water Baptiſm &amp;c: We know that while the outward Temple at Jeruſalem was the place appointed of God for worſhip to be made, that thoſe offerings then stood only in <hi>meats,</hi>
                <note place="margin">Heb: 9: 10.</note> 
                <hi>drinks, divers <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -1190,7 +1191,7 @@
                </gap> under the legal diſpenſation) breaſt-plate, ſhield, helmet, Sword &amp;c: litterally underſtood, the Chriſtians wopons were not Carnal but Spiritual, and their Armour was <hi>the breaſt plate of righteouſneſs,</hi>
                <note place="margin">Eph. 6.</note> 
                <hi>the ſhield of Faith the Helmet of Salvation, the Sword of the Spirit &amp;c.</hi> then the feaſt of Paſ<g ref="char:EOLhyphen"/>ſover was <hi>to be kept with unleavened bread</hi> as litterally unddrſtood, but
-<pb n="37" facs="tcp:001230_0036_0FB17D77C32B3BC8"/>the Chriſtians Paſſover was to <hi>be with unleavened of Sincerity and Truth &amp;c.</hi>
+<pb n="37" facs="unknown:001230_0036_0FB17D77C32B3BC8"/>the Chriſtians Paſſover was to <hi>be with unleavened of Sincerity and Truth &amp;c.</hi>
                <note place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1207,7 +1208,7 @@
             <p>We come now to thoſe other matters about which we differ from our preſent oppoſers, the Prieſthood and Goſpel Miniſtry, (about which is <hi>a <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> difference between us</hi>) and a little examine whether there be any ſuch thing under the Goſpel as a Prieſthood or Miniſtry aſſigned to any
-<pb n="38" facs="tcp:001230_0037_0FB17D79A06ADBD0"/>particular order of Men; and whether none ought to miniſter publickly to the people, but ſuch as are ordained by ſome perſons that have receiv<g ref="char:EOLhyphen"/>ed <hi>outward power ſo to do by a ſucceſſive Ordination from the Apoſtles time to this day</hi> as is often alledged againſt us, tho' the contrary of which the firſt proteſtant reformers alledged againſt <hi>the papi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="38" facs="unknown:001230_0037_0FB17D79A06ADBD0"/>particular order of Men; and whether none ought to miniſter publickly to the people, but ſuch as are ordained by ſome perſons that have receiv<g ref="char:EOLhyphen"/>ed <hi>outward power ſo to do by a ſucceſſive Ordination from the Apoſtles time to this day</hi> as is often alledged againſt us, tho' the contrary of which the firſt proteſtant reformers alledged againſt <hi>the papi<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ts,</hi> we find that as un<g ref="char:EOLhyphen"/>der the Law there were High prieſts over the houſe or Temple of God, ſo under the Goſpel we find that Chriſt Jeſus is the High prieſt of our profeſſion,<note place="margin">Heb: 10.21.3: 1, — 6.</note> the High prieſt over the houſe of God, whoſe houſe we are, if we hold fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -1223,7 +1224,7 @@
                   </gap>: 19, 20.</note> ſaying; Quench not the ſpirit. Deſpiſe not propheſyings. <hi>Ye may all propheſy one by one &amp;c:</hi> But that which further renders theſe mens practices unchriſtian &amp; unſcriptural, is for that they compel the payment of tythes of forced maintenance for preaching <hi>from ſuch who belong not to their Com<g ref="char:EOLhyphen"/>munion, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> ever go to hear them preach,</hi> nor ever have any thing of
-<pb n="39" facs="tcp:001230_0038_0FB17D7AEAE52BB0"/>them impriſoning, diſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+<pb n="39" facs="unknown:001230_0038_0FB17D7AEAE52BB0"/>them impriſoning, diſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>ining from if not ruining many families even to this day, who for conſcience ſake cannot uphold ſuch unchriſtianiſm; this is openly known eſpecially in Old England, of which more <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -1289,7 +1290,7 @@
                   </gap> 
                   <hi>all Chriſtians</hi>
                   <note place="margin">1 Peter 2.9</note> That you may declare the power of him who hath
-<pb n="40" facs="tcp:001230_0039_0FB17D7C67954530"/>called you out of darkneſs unto his Marvellous Light.</q> And from the words of the Apoſtle to wit <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="40" facs="unknown:001230_0039_0FB17D7C67954530"/>called you out of darkneſs unto his Marvellous Light.</q> And from the words of the Apoſtle to wit <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> let all be done de<g ref="char:EOLhyphen"/>cently and in good order,<note place="margin">— <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -1316,7 +1317,7 @@
                </q>
             </p>
             <p>Again ſaith Luther, <q>It's a horrible thing I am going to say,<note place="margin">— 84.</note> I wiſh I might be found a Lyar, but it's true, it's an irrefragable verity, there are no Prieſts in the Holy Scrip<g ref="char:EOLhyphen"/>tures <hi>contra-diſtinguiſhed the Laity;</hi> and they have not their
-<pb n="41" facs="tcp:001230_0040_0FB17D7DE7D697D8"/>Eſtabliſhment from the plain word of God, which is it not all one as if it were from the Devil?</q> 
+<pb n="41" facs="unknown:001230_0040_0FB17D7DE7D697D8"/>Eſtabliſhment from the plain word of God, which is it not all one as if it were from the Devil?</q> 
                <hi>Mark again, Is not this as harſh as G: F's calling the t<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>e of Drunkards, Railers, and curſed ſpeakers to be the table of Devils?</hi> which paſſage you have ſo often clipt, abuſed and vilified, leaving out the words drunkards railers and curſed ſpeakers, they being ſuch whoſe table G: F: called the table of devils &amp;c.</p>
@@ -1386,7 +1387,7 @@
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>.</q>
-               <pb n="42" facs="tcp:001230_0041_0FB17D80F760D1A0"/>Luther affirm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="42" facs="unknown:001230_0041_0FB17D80F760D1A0"/>Luther affirm<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> 
                <q>that the univerſities are one of the faces of Antichriſt, a very comly ſight to look upon; and yet indeed are a very Chaos and open gate of hell. And then cites <hi>Chryſoſtom</hi> to affirm and prove that humane learning doth not fit men for the Miniſ<g ref="char:EOLhyphen"/>try of the Goſpel,<note place="margin">— 127.</note> but is rather a hinderance thereto; and that <hi>the Grace of God only fits them for the heavenly work.</hi>
@@ -1407,7 +1408,7 @@
                            <desc>••</desc>
                         </gap>loans.</hi>
                   </q> Indeed we read there
-<pb n="43" facs="tcp:001230_0042_0FB17D827108A490"/>were ſome of Baals Prieſts among the Jews that were atired in black, and therefore called Chemarims; which very name the Lord unlearned to cu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+<pb n="43" facs="unknown:001230_0042_0FB17D827108A490"/>were ſome of Baals Prieſts among the Jews that were atired in black, and therefore called Chemarims; which very name the Lord unlearned to cu<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>; but we no where <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -1452,7 +1453,7 @@
                   </gap>ay <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> more of it here than to cite ſome words
-<pb n="44" facs="tcp:001230_0043_0FB17D83EAE235E0"/>of our friend Robert Barclay in his Apology p: 339. complaining their cruelty, ſaith thus, viz. <q>To give an account of their cruelty and ſeveral ſorts of inhumanity uſed againſt us, would make no ſmall hiſ<g ref="char:EOLhyphen"/>tory: theſe <hi>Avaritious Hirelings</hi> have come to that degree of malice and rage that ſeveral poor labouring men have been carried hundreds <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="44" facs="unknown:001230_0043_0FB17D83EAE235E0"/>of our friend Robert Barclay in his Apology p: 339. complaining their cruelty, ſaith thus, viz. <q>To give an account of their cruelty and ſeveral ſorts of inhumanity uſed againſt us, would make no ſmall hiſ<g ref="char:EOLhyphen"/>tory: theſe <hi>Avaritious Hirelings</hi> have come to that degree of malice and rage that ſeveral poor labouring men have been carried hundreds <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> miles from their own dwellings and ſhut up in priſon, ſome two ſame three ſome ſeveral years together <hi>for the value of one pound ſter<g ref="char:EOLhyphen"/>ling and leſs,:</hi> I knew my ſelf a poor widow that for the tythes of her geefe, which amounted not to <hi>five ſhillings, was about four years kept in priſon thirty miles from her houſe.</hi> Yea they by violence for this cauſe have plundered of mens goods the hundred fold, and prejudiced much more. Yea hundreds have ſpilt their innocent blood by dying in the filthy noiſome holes and priſons; and ſome of the Prieſts have been ſo enraged that goods thus raviſhed could not ſatisty them, but they muſt alſo ſatisfy their fury by <hi>beating, knocking and wounding with their hands innocent men and women</hi> for refuſing, for conſcience ſake, to put into their mouths thus <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1495,7 +1496,7 @@
                   </gap> men as we <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>
-                  <pb n="45" facs="tcp:001230_0044_0FB17D856A735710"/>even made in Penſilvania of elſewhere, whereby they ſhould have been forced to have paid toward the maintenance of the Quakers Miniſtry or Worſhip houſes, and whether they would not have eſteemed that an un<g ref="char:EOLhyphen"/>reſonable Impoſition, had it been by tythes or any other forced mainte<g ref="char:EOLhyphen"/>nance<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="45" facs="unknown:001230_0044_0FB17D856A735710"/>even made in Penſilvania of elſewhere, whereby they ſhould have been forced to have paid toward the maintenance of the Quakers Miniſtry or Worſhip houſes, and whether they would not have eſteemed that an un<g ref="char:EOLhyphen"/>reſonable Impoſition, had it been by tythes or any other forced mainte<g ref="char:EOLhyphen"/>nance<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> but as there is no Scripture for tythes or forced maintenance for preaching ſo we can prove that it's againſt the teſtimony of divers antient proteſtants of which we ſhall cite at preſent theſe following.</p>
                <p>Walter Brute ſaith that <q>a prieſt receiving by bargain any thing of Yearly Annuity is in ſo doing a Schiſmatick and Excommunicate.</q> Crook's Works pa: 13.</p>
@@ -1513,7 +1514,7 @@
                <p>He alſo produceth Doctor Willet in his Synopſis of Popery, 5th. Gene<g ref="char:EOLhyphen"/>ral Controverſie pa: 314. ſaying, the prieſthood of the Law is altered or changed; Ergo alſo the Law of the Prieſthood, and ſo conſequently the ceremonial duty of tythes. He alſo produces Z<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>nchius ſaying, certain it is that the Law concerning the paying of Tythes alſo was abrogated by Chiſt, pa: 224. But if any ſay, How muſt thoſe live that preach the Goſ<g ref="char:EOLhyphen"/>pel?
-<pb n="46" facs="tcp:001230_0045_0FB17D87CBD9F368"/>We anſwer firſt with the ſaid William Thorp, <hi>that ſince Chriſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="46" facs="unknown:001230_0045_0FB17D87CBD9F368"/>We anſwer firſt with the ſaid William Thorp, <hi>that ſince Chriſt <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> all the time of his preaching by pure alms of the people and by <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1540,7 +1541,7 @@
                   <hi>The Apoſtle</hi> ſaith, He will ſing with the Spirit; and exhorts the Ephe<g ref="char:EOLhyphen"/>ſians chap: 5. verſe 17, 18, 19. Be not unwiſe, but underſtand what the will of the Lord is; be filled with the Spirit, ſpeaking to your ſelves in Pſalms Hyms and ſpiritual Songs ſinging and making melody <hi>in your hearts</hi> to the Lord. But as the above author of Light ſhining &amp;c: pa: <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>07. ſaith) <q>the way of Pſalms as it is ordinarily uſed in the
-<pb n="47" facs="tcp:001230_0046_0FB17D896F2E6650"/>
+<pb n="47" facs="unknown:001230_0046_0FB17D896F2E6650"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> that no foundation in the cuſtoms of the Antients. <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1567,7 +1568,7 @@
                <p>☞The Apoſtle tells us, that <hi>the Spirit helps our infirmities; and that we know not what to pray for, as we ought; but the Spirit it ſelf makes inter<g ref="char:EOLhyphen"/>ceſſion for us with groanings that cannot be uttered. Rom: 8: 26. And again ſaith he praying always with all prayer and ſupplication in the Spirit, and watching thereunto with all perſeverance, Epheſ: 6: 18.</hi> Here we find that the Chriſtians of themſelves knew not what to pray for, without the help of the Spirit; and that the Spirit help'd their Infirmities in or<g ref="char:EOLhyphen"/>der thereto: but the Common prayer men know both when and what to pray for at all times as ſoon as they are aſſembled together, their Com<g ref="char:EOLhyphen"/>mon-prayers being prepared in their Common prayer book aforehand, and thereby they know what they muſt pray for, and how they muſt pray, whatever their preſent ſtates, inward conditions or wants are; and this <hi>from one Week, Month and Year to another.</hi> But whether this be accord<g ref="char:EOLhyphen"/>ing to the Apoſtle's doctrine, as above (viz.) To watch that we might pray and ſupplicate in the Spirit with all perſeverance &amp;c: is ſurely worthy the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ue conſideration of all ſincere Chriſtians. And the Common-prayer men might alſo conſider, that as there is no Example or Precept, or ſuch a Common Liturgy or ſet form to pray by in all the New Teſta<g ref="char:EOLhyphen"/>ment<g ref="char:punc">▪</g> So according to their now great friend <hi>George Keith's own former confeſſion, ſet forms of Prayer were not uſed in the Church till upward of three hundred years after Chriſt;</hi> and then ſurely there is no Obligation
-<pb n="48" facs="tcp:001230_0047_0FB17D8AACE54D28"/>on any to uſe it; but rather, in vain is ſuch worſhip, being taught by the commandment and precepts of men, and therefore cannot be comply'd with by us who are well ſatiſfied that it is ſo, tho' as <hi>Doctor Burnet now Biſhop of Salisbury</hi> ſaid in his Abridgment of the Hiſtory of the Reforma<g ref="char:EOLhyphen"/>tion, Book <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="48" facs="unknown:001230_0047_0FB17D8AACE54D28"/>on any to uſe it; but rather, in vain is ſuch worſhip, being taught by the commandment and precepts of men, and therefore cannot be comply'd with by us who are well ſatiſfied that it is ſo, tho' as <hi>Doctor Burnet now Biſhop of Salisbury</hi> ſaid in his Abridgment of the Hiſtory of the Reforma<g ref="char:EOLhyphen"/>tion, Book <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> pa: 161. That when they were in King Edwards days, about altering the Common Prayer book from the Papiſts way to what it ſince hath been, that the Papiſts finding fault with the alteration, took occaſion to ſay, <hi>that the new doctrines and worſhip changed as faſt as the faſhions <gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -1588,7 +1589,7 @@
             <div type="belief">
                <head>Of YOU to a ſingle perſon.</head>
                <p>As firſt it's acknowledged (we ſuppoſe) by all; that it is the only proper way of ſpeaking to diſtinguiſh whether we are ſpeaking to one or more, ſo ſecondly, it is the language in the current of the Holy Scripture given not only to all ſorts of men, from the King to the begger, but alſo to God himſelf. And thirdly, William Penn in his No Croſs, No Crown, pa: 208. tells us, that <hi>Luthet</hi> was ſo far from condemning our plain ſpeech, that in his Ludus, he ſports himſelf with you to a ſingle perſon, as <hi>an incongruous and ridiculous ſpeech.</hi> And that <hi>Eraſmus,</hi> a learned man, beſtows a whole diſcourſe in rendring <hi>it abſurd;</hi> and that it's im<g ref="char:EOLhyphen"/>poſſible to preſerve numbers, if you, the only word for more than one, he uſed to expreſs one<g ref="char:punc">▪</g> and that <hi>Lypſius</hi> proves that the ancient Romans all thou'd and thee'd their Senators and Emperors; and that there was no ſuch thing as <hi>Cap honour and titular reſpects among them.</hi> And that How<g ref="char:EOLhyphen"/>ell in his Hiſtory of France aſſures <hi>that pride and flattery</hi> firſt put Inferi<g ref="char:EOLhyphen"/>ours upon paying a plural reſpect to Superiors, and Superiors upon receiv<g ref="char:EOLhyphen"/>ing it, and that the ſaid <hi>Eraſmus</hi> alſo ſaid it was the corruption of flat<g ref="char:EOLhyphen"/>tery, and ſince they count it a clowniſh and unmannerly way of ſpeaking
-<pb n="49" facs="tcp:001230_0048_0FB17D8C33B47728"/>when given to men, eſpecially the poor to the rich in their addreſſes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="49" facs="unknown:001230_0048_0FB17D8C33B47728"/>when given to men, eſpecially the poor to the rich in their addreſſes <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>o them: Why then do they give the ſame language to our great Creator (who gives us richly all things to enjoy) in all their prayers and addreſ<g ref="char:EOLhyphen"/>ſes to him? <hi>This therefore <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1616,7 +1617,7 @@
                <p>The Author in page 227, 228. cites of the works of the ſaid Hierom (an antient father) an Epiſtle directed to a Noble Woman called <hi>Cel<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>n<g ref="char:EOLhyphen"/>tia,</hi> part of which is this. <q>Our religion admits no reſpect of perſons; nor doth it lead us to value the outward condition of men, but their in<g ref="char:EOLhyphen"/>ward frame of Spirit. With God, not to ſerve Sin, is to be free; and to excell in virtue is to be noble. — The ranſom of the poor and rich coſt Chriſt an equal expence of blood, nor is it material in what ſtate a man is born, the new Creature hath no diſtinctions, but if we will for<g ref="char:EOLhyphen"/>get
-<pb n="50" facs="tcp:001230_0049_0FB17D8EA850E470"/>how we all deſcended from one father, at leaſt we ought perpetu<g ref="char:EOLhyphen"/>ally to remember that we have one Saviour.</q>
+<pb n="50" facs="unknown:001230_0049_0FB17D8EA850E470"/>how we all deſcended from one father, at leaſt we ought perpetu<g ref="char:EOLhyphen"/>ally to remember that we have one Saviour.</q>
                </p>
                <p>And then cites a paſſage out of <hi>Cauſabon</hi> in his book of Uſe and Cuſtom, pa: 169. <q>He is not counted a civil man now of late years among us, that thinks much to ſubſcribe himſelf <hi>Servant,</hi> tho, it be to his Equal or Inferiour. Yet <hi>Sulpitius Severus</hi> was once ſoundly chid by <hi>Paulinus Biſhop of Nola,</hi> for ſubſcribing himſelf his Servant, in a Letter of his, <hi>Take heed hereafter how you, being from a</hi> Servant <hi>called out unto</hi> liber<g ref="char:EOLhyphen"/>ty, <hi>do ſubſcribe your ſelf</hi> Servant <hi>unto one who is your Brother and Fel<g ref="char:EOLhyphen"/>low Servant. For it is a</hi> ſinful flattery, <hi>not a teſtimony of</hi> humility, <hi>to pay thoſe honours to a man and a Sinner, which are due to one Lord, one Maſter and one God.</hi>
                   </q> Note, how exactly this agrees with the words of Chriſt. Call no man Maſter on Earth; for one is your Maſter who is in heaven, (i. e.) call no man Maſer who is not thy Maſter; for otherwiſe he allows to call ſuch ſo who are indeed ſo.</p>
@@ -1643,7 +1644,7 @@
                   </gap> oblations, Incenſe is an <gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>mination to me; the New-Moons
-<pb n="51" facs="tcp:001230_0050_0FB17D905F865BB8"/>
+<pb n="51" facs="unknown:001230_0050_0FB17D905F865BB8"/>
 and Sabbaths, the calling of Aſſemblies<g ref="char:punc">▪</g> I cannot away with, it is iniqu<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>y, even the Solemn Meetings Iſaiah<g ref="char:punc">▪</g> 1: 11, 13.</p>
@@ -1688,7 +1689,7 @@ and Sabbaths, the calling of Aſſemblies<g ref="char:punc">▪</g> I cannot awa
                   </gap>ens he made to Hell Concerning, which they alſo quote Auguſtine that antient <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, ſaying, the miſerable dancer knows not
-<pb n="52" facs="tcp:001230_0051_0FB17D917398D8D8"/>that as many paces as he makes in dancing, <hi>ſo many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="52" facs="unknown:001230_0051_0FB17D917398D8D8"/>that as many paces as he makes in dancing, <hi>ſo many <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>eap<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1710,7 +1711,7 @@ and Sabbaths, the calling of Aſſemblies<g ref="char:punc">▪</g> I cannot awa
                   </hi> Or did you ever condemn <hi>Chryſoſtom</hi> for affirming that humane Learning is rather a hindrance than a help to fit men to the Miniſtry; and that it is the Grace of God <hi>that fits them to the heavenly work?</hi> Have you condem<g ref="char:EOLhyphen"/>ned <hi>Didoclavius</hi> ſpeaking againſt <hi>Epiſcopal Garbs</hi> to diſtinguiſh the Prieſts from other men? Or have you condemned <hi>Walter Brute</hi> for ſaying, that a Prieſt receiving by bargain any thing of Yearly Annuity, is in ſo doing a Schiſmatick and Excommunicate? Or have you denied <hi>William Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>rp,</hi>
-                  <pb n="53" facs="tcp:001230_0052_0FB17D92F9548B50"/>
+                  <pb n="53" facs="unknown:001230_0052_0FB17D92F9548B50"/>
 whom the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> of Martyrs calls a Valiant Warriour under the triumph<g ref="char:EOLhyphen"/>ant banner of Chriſt, for ſaying <hi>That thoſe Prieſt's that <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -1757,7 +1758,7 @@ whom the <gap reason="illegible" resp="#PDCC" extent="1 word">
                   </hi> and that he that Swears, <hi>Sins.</hi> And then you will own that to reſpect perſons for their habit and G<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap> is inconſiſtent with <hi>the true faith;</hi> and that the practice thereof, by the confeſſion of both <hi>Luther</hi> and <hi>Calvin,</hi> is againſt the <hi>Light within us,</hi> and then you will own that for a man who is a
-<pb n="54" facs="tcp:001230_0053_0FB17D947268DC88"/>
+<pb n="54" facs="unknown:001230_0053_0FB17D947268DC88"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> to ſubſcribe himſelf a ſervant <hi>is not a teſtimony of Humility <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -1794,7 +1795,7 @@ whom the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      </gap> to lift up Sword one againſt another, and ſo to <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> no more.
-<pb n="55" facs="tcp:001230_0054_0FB17D975652B8C0"/>
+<pb n="55" facs="unknown:001230_0054_0FB17D975652B8C0"/>
 That <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> under his Vine, and under his fig tree where <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -1882,7 +1883,7 @@ That <gap reason="illegible" resp="#PDCC" extent="1 span">
                   </q>
                </p>
                <p>
-                  <pb n="56" facs="tcp:001230_0055_0FB17D98605F3B40"/>
+                  <pb n="56" facs="unknown:001230_0055_0FB17D98605F3B40"/>
                   <hi>Tertullian,</hi> who lived anno 195, aſſerts that <q>a life ſubject to the ho<g ref="char:EOLunhyphen"/>ly Guidings of the Univerſal Light in the Conſcience, is a kind of na<g ref="char:EOLhyphen"/>tural Chriſtianity, or to be naturally a Chriſtian.</q>
                </p>
                <p>
@@ -1935,7 +1936,7 @@ That <gap reason="illegible" resp="#PDCC" extent="1 span">
                   </q>
                </p>
                <p>
-                  <pb n="57" facs="tcp:001230_0056_0FB17D99D7BBED80"/>
+                  <pb n="57" facs="unknown:001230_0056_0FB17D99D7BBED80"/>
 Again the above <hi>Clemens</hi> directeth men <hi>in general</hi> 
                   <q>to go to the Light &amp; Water within themſelves,<note place="margin">pa: 164.</note> which he alſo calls the Light in ones own houſe.</q>
                </p>
@@ -1978,7 +1979,7 @@ Again the above <hi>Clemens</hi> directeth men <hi>in general</hi>
                   </gap>ll fleſh before the Lord, Zachariah, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>: 13. And this alſo agrees with the experience of many a Soul at this day, who have often experienced the renewing of ſtrength in the Lord, as they have been found diligently waiting in the true ſilence of their minds upon
-<pb n="58" facs="tcp:001230_0057_0FB17D9B3148FD38"/>
+<pb n="58" facs="unknown:001230_0057_0FB17D9B3148FD38"/>
 him; and ſitting down in the nothingneſs of themſelves, and in deep humility before him; and ſuch who ſo truely wait, the Lord is ready to teach them (according to the ſaying of the wiſe man) to be more ready to hear, than to offer the Sacrifice of fools, and alſo not to be <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> with the mouth, nor to let the heart be haſty to utter any thing before God. Eccleſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2000,7 +2001,7 @@ him; and ſitting down in the nothingneſs of themſelves, and in deep humility 
                   </gap> as alſo than what hath been here produced out of the Fathers; but at preſent we ſhall wave them till further occaſion offers. Howbeit by what hath been produced from both may be clearly ſeen the weak<g ref="char:EOLhyphen"/>neſs and folly of thoſe who term, ſuch as turn from the Inventions and Traditions of men to believe in, embrace and walk in this Light, to be ſuch as run after new Lights, as hath been often, but very fooliſhly ob<g ref="char:EOLhyphen"/>jected againſt us: and indeed it's only ſaid, but not proved, for it's no o<g ref="char:EOLhyphen"/>ther than an old Goſpel Truth, (though much clouded and obſcured from men by the miſty times of darkneſs, and by divers humane inventions &amp; Traditions) that God is Light and as God is Light; ſo ſhould we walk in the Light, that we may have fellowſhip one with another, and that the blood of Chriſt may cleanſe us from all Sin. And this being the meſ<g ref="char:EOLhyphen"/>ſage they had to declare of old, it's not novell but an old, neceſſary Goſ<g ref="char:EOLhyphen"/>pel Truth, to declare the ſame thing now in order that a man may attain the ſame end, (to wit) to be cleanſed from Sin, from which cleanſing follows the Salvation of the Soul. And now altho' theſe Backſliders and ſome buſie Prieſts appear ſo implacably virulent againſt us, rendring us as a people not fit to be tolerated &amp;c: yet we are ſatisfi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>d that there are many ſober judicious people, both of the Church of England and others,
-<pb n="59" facs="tcp:001230_0058_0FB17D9CDFE58ED0"/>
+<pb n="59" facs="unknown:001230_0058_0FB17D9CDFE58ED0"/>
 that have other ſentiments of us; and are more <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, generous and juſt in their carriage towards us.</p>
@@ -2030,7 +2031,7 @@ that have other ſentiments of us; and are more <gap reason="illegible" resp="#P
                   </gap>ai<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Doctor ſaith, He hath read ſome of their books, particularly <hi>Robert Barclays</hi> (where our reaſoning about inſtitu<g ref="char:EOLhyphen"/>ted
-<pb n="60" facs="tcp:001230_0059_0FB17D9E77586178"/>
+<pb n="60" facs="unknown:001230_0059_0FB17D9E77586178"/>
 religion is largely treated on) with great delight; but what ſort of perſon would this render the ſaid Doctor to be, to read books with great delight; the tendency of which is to debauch mankind. And whereas the <hi>Bomb</hi> ſaith, The Quakers are as vile impoſtors as ever were, the ſink of all Hereſies &amp;c: Yet we ſee the ſaid Judicious Judge <hi>Hales</hi> ſaith, Take away ſome ſingularities, they are as other men &amp;c:</p>
                <p>And whereas G: K: in his reaſons for renouncing Quakeriſm pa: 14. ſpeaking of the Quakers, ſaith, If a ſtranger ſhould ask them what they are, <hi>he could receive no other anſwer than that they are what other men are not &amp;c:</hi>
                </p>
@@ -2044,7 +2045,7 @@ religion is largely treated on) with great delight; but what ſort of perſon wo
                <p>And likewiſe concerning the Epiſcopal Clergy, the ſaid Judge <hi>Hales</hi> ſaith thus, <q>As to the Pope's ſupremacy they diſdain it, but if you acknow<g ref="char:EOLhyphen"/>ledge not Epiſcopal Government, if you ſwear not Canonical Obedience to your Ordinary, if you ſubmit not to the Liturgy and Ceremonies, Veſtments and Muſick uſed in the Church, you are at beſt a Schisma<g ref="char:EOLhyphen"/>tick.page 28.</q>
                </p>
                <p>Again of the Clergy ſaith he, <q>Obſerving, certain modes &amp; forms, and the rigorous obſervation of them are the common Road for attaining preferments or favours of great perſons; upon that account they exerciſe a marvellous fervour of mind for them; and a vigorous oppoſition of all that come not up to them in every punctilio, that they may thereby be taken notice of and employ'd as uſeful and fit, and vigorous aſſerters
-<pb n="61" facs="tcp:001230_0060_0FB17DA0960F6E30"/>and Inſtruments for this purpoſe. — And becauſe pretence of Zeal for Religion carries a fair plauſibility with all men; therefore thoſe very things that are but Engines of gain and profit, are Chriſtened with a ſpecious name of religion: it was the making of Silver Shrines for Diana, the art whereby the Artificers got their living, that made the Outcry, Great is Diana of the Epheſiaus. page, 19, 20.</q>
+<pb n="61" facs="unknown:001230_0060_0FB17DA0960F6E30"/>and Inſtruments for this purpoſe. — And becauſe pretence of Zeal for Religion carries a fair plauſibility with all men; therefore thoſe very things that are but Engines of gain and profit, are Chriſtened with a ſpecious name of religion: it was the making of Silver Shrines for Diana, the art whereby the Artificers got their living, that made the Outcry, Great is Diana of the Epheſiaus. page, 19, 20.</q>
                </p>
                <p>Note theſe above paſſages with much more are taken from the latter End of the above <hi>Daniel Philips</hi> book, cited there by our friend <hi>Richard Claridge</hi> who a few years ago, himſelf a Miniſter of the Church of England.</p>
             </div>
@@ -2067,7 +2068,7 @@ religion is largely treated on) with great delight; but what ſort of perſon wo
                                     <desc>•</desc>
                                  </gap>ct pu<g ref="char:EOLhyphen"/>niſhment on the Innocent, or require a ſatisfaction where there was nothing due.</item>
                               <item>
-                                 <pb n="62" facs="tcp:001230_0061_0FB17DA2A92F07A0"/>
+                                 <pb n="62" facs="unknown:001230_0061_0FB17DA2A92F07A0"/>
 4. It doth not only disacknowledge the true virtue and real intent of Chriſt's life and death, but intirely deprives God of that praiſe which is owing to his greateſt Love and Goodneſs.</item>
                               <item>5. It repreſents the Son more kind and compaſſionate than the Fa<g ref="char:EOLhyphen"/>ther, whereas if both be the ſame God, then either the Father is as loving as the Son, or the Son as angry as the Father.</item>
                               <item>6. It robs God of the Gift of his Son for our Redemption, (which the Scriptures attribute to the unmerited love he had for the World) in affirming the Son purchaſed that Redemption from the Father by the gi<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2093,7 +2094,7 @@ religion is largely treated on) with great delight; but what ſort of perſon wo
                <p>Obſerve <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ndid reader, thou haſt the ſaid 22 page cited above at large.
-<pb n="63" facs="tcp:001230_0062_0FB17DA42F46EBA8"/>
+<pb n="63" facs="unknown:001230_0062_0FB17DA42F46EBA8"/>
 Is there any ſuch words in any part thereof, as D. L: moſt abuſively ren<g ref="char:EOLhyphen"/>ders W: P: largely to affirm, (to wit) <hi>that Chriſt had a debt of his own to ſatisfy to God?</hi> 
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2114,7 +2115,7 @@ Is there any ſuch words in any part thereof, as D. L: moſt abuſively ren<g re
                      </gap> that we plead either the righte<g ref="char:EOLhyphen"/>ouſneſs of a Creature, or <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> righteouſneſs, which he himſelf
-<pb n="64" facs="tcp:001230_0063_0FB17DA676707278"/>
+<pb n="64" facs="unknown:001230_0063_0FB17DA676707278"/>
 is enabled to perform, as the cauſe of our Juſtification. For Chriſt that ſtrengthens us and enables us by his Power and Spirit dwelling in us to do the Fathers will, he is the ground and cauſe of our Juſti<g ref="char:EOLhyphen"/>fication, and in him, who is the beloved, are we accepted &amp;c:</q>
                </p>
                <p>Obſerve here, We juſtly charge <hi>D: L:</hi> of abuſing G: W: by adding thoſe words, as the Reader may ſee, [i, e, Chriſt, as man] to G: W's words there by making the paſſage to look ſo erroneous as if we put a ſlight upon the righteouſneſs of <hi>Chriſt, as man,</hi> or what he did, as man, for us. But for that there is no ſuch words writ by G: W: but foiſted in by D: L: therefore for this he ought <hi>as publickly to acknowledge his fault.</hi>
@@ -2141,7 +2142,7 @@ is enabled to perform, as the cauſe of our Juſtification. For Chriſt that ſt
                   </gap>ly <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>y this time may be true in fact. And the G. W. oppoſes R. G's looking for Chriſt's appearing outwardly in a bodily exi<g ref="char:EOLhyphen"/>ſtence
-<pb n="65" facs="tcp:001230_0064_0FB17DA810999688"/>to SAVE MEN which was the ſubject then in Controverſy; <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="65" facs="unknown:001230_0064_0FB17DA810999688"/>to SAVE MEN which was the ſubject then in Controverſy; <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> neither of which, nor yet any other ways doth he deny Chriſt to have <hi>the body of man,</hi> no<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2162,7 +2163,7 @@ is enabled to perform, as the cauſe of our Juſtification. For Chriſt that ſt
                         </gap>, roſe and aſcended,</hi> both as teſtified of in the Scriptures of Truth, and more eſpecially as he <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>eaks in upon the Soul by his divine diſcoveries, as the true Light enlightening every man. This I call Chriſtianity; and that man is a
-<pb n="66" facs="tcp:001230_0065_0FB17DA975C92A40"/>
+<pb n="66" facs="unknown:001230_0065_0FB17DA975C92A40"/>
 Child of Light, who obeys that Light, a true Chriſtian, who is Chriſt-like, a Child of God, and heir of the promiſe, who is inwardly renew<g ref="char:EOLhyphen"/>ed and begot anew of the incorruptible Seed and Word of God; for thoſe who were Chriſtians of Old, were ſuch as came to know Chriſt no more after the fleſh, but as the ſecond <hi>Adam,</hi> the Lord from hea<g ref="char:EOLhyphen"/>ven, the quickning Spirit, who ſaid I am the Reſurrection and the Life, really witneſſing him to be that in themſelves; wherefore they believ<g ref="char:EOLhyphen"/>ed, and upon repentance received remiſſion of Sins and eternal Salvation. And I do affirm that Chriſtianity ſtands in the manifeſtation of a mea<g ref="char:EOLhyphen"/>ſure of that righteouſneſs, power, wiſdom, truth and life in the Soul, which appeared ſo gloriouſly in that Body at <hi>Jeruſalem,</hi> to work re<g ref="char:EOLhyphen"/>pentance, then give remiſſion, ſo renew, redeem and finally ſave: And who <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> to be made ſenſible of that heavenly treaſure in their mor<g ref="char:EOLhyphen"/>tal bodies, and to improve it as good Stewards, were poſſeſſors of true Chriſtianity, and therefore right Chriſtians, the diſtinction betwixt mo<g ref="char:EOLhyphen"/>ral and Chriſtian: the making holy life legal, and faith in the hiſtory of Chriſt's outward manifeſtation, Chriſtianity, hath been a deadly poyſon, theſe latter Ages have been infected with, to the deſtruction of godly living, and apoſtatizing of thoſe Churches in whom there might once have been begotten ſome earneſt living thirſt after the inward life of righteouſneſs.</q>
@@ -2183,7 +2184,7 @@ Child of Light, who obeys that Light, a true Chriſtian, who is Chriſt-like, a 
                   </gap>t at him a<g ref="char:EOLhyphen"/>bout it, yet W. P. is not without good company on his ſide<g ref="char:punc">▪</g> he hath the great and eminent <hi>Apoſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap> Paul,</hi> who told the <hi>Church</hi> at the <hi>Romans</hi> who had then faith in Chriſt's outward manifeſtation) ſo as he tells them
-<pb n="67" facs="tcp:001230_0066_0FB17DAB010E0118"/>
+<pb n="67" facs="unknown:001230_0066_0FB17DAB010E0118"/>
 their <hi>Faith was ſpoken of throughout the whole world.</hi> Rom: 1.8. yet he alſo told them that <hi>if they lived after the fleſh, they ſhould dye; but if thro' the Spirit they ſhould mortify the deeds of the body they ſhould live,</hi> 8.13. Again he exhorted the <hi>Hebrews,</hi> (who, to be ſure, had alſo faith in Chriſt's outward manifeſtation, for he called them his <hi>holy bre<g ref="char:EOLhyphen"/>thren, and partakers of the heavenly calling,</hi> Heb. 3.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>) <hi>to follow peace with all men, and holineſs without which no man ſhould ſee the Lord,</hi> 12.14. Here the Apoſtle, as well as W: P: enjoins the neceſſity of a ho<g ref="char:EOLhyphen"/>ly life upon them, who then already had the faith of Chriſt's outward manifeſtation: So that we ſee, it was not that faith alone that was ſuf<g ref="char:EOLhyphen"/>ficient, as the Apoſtle <hi>James</hi> alſo very expre<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2207,7 +2208,7 @@ their <hi>Faith was ſpoken of throughout the whole world.</hi> Rom: 1.8. yet he
                   </gap> G F ſaith in le<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap> 16. <q>For his perſonal qualities, both natural, moral and divine, as they appeared in his converſe
-<pb n="68" facs="tcp:001230_0067_0FB17DAD57F53590"/>
+<pb n="68" facs="unknown:001230_0067_0FB17DAD57F53590"/>
 with <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> and in the Church of God, take as followeth.</q>
@@ -2270,7 +2271,7 @@ with <gap reason="illegible" resp="#PDCC" extent="1 word">
                <p>Again, ſince the above was written<g ref="char:punc">▪</g> we have ſeen the book called <hi>News coming out of the North,</hi> about a paſſage in the title of which we find G. F. and the reader m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ch abuſed by this abuſive man, in his <hi>Almanack, July</hi> Month 1904<g ref="char:punc">▪</g> where he, D. L. ſpeaking of a paſſage about Ordi<g ref="char:EOLhyphen"/>nances, Churches &amp;c faith, viz: The book out of which this paſſage is taken is <q>entituled <hi>News out of the North,</hi> written from the Mouth of the Lord, from one who is naked, and ſtands naked before the Lord, whoſe name is not known in the World, riſen up out of the <hi>North,</hi> which
-<pb n="69" facs="tcp:001230_0068_0FB17DAEACB1F0B8"/>
+<pb n="69" facs="unknown:001230_0068_0FB17DAEACB1F0B8"/>
 was propheſied of, but now is fulfilled, called <hi>George Fox;</hi>
                   </q> thus far D: L's falſe citation, for <hi>George Fox</hi> is not there mentioned, as well as he hath left out the laſt part of the ſaid paſſage<g ref="char:punc">▪</g> as we ſhall make it ap<g ref="char:EOLhyphen"/>pear by fully citing it as followeth (viz:) <q>Written from the mouth of the Lord, from one who is naked, and ſtands naked before the Lord, clothed with righteouſneſs, whoſe name is not known in the world, ri<g ref="char:EOLhyphen"/>ſen up out of the North, which was propheſied of, but now it is ful<g ref="char:EOLhyphen"/>filled the army is coming out of the North againſt you terrible ones, whoſe weapons are not carnal but ſpiritual.</q> Here, reader, is the entire paſſage<g ref="char:punc">▪</g> where firſt we obſerve D: L: hath left out next before the words (is fulfilled) the particle [it] which alters the ſenſe; and it no ways appeared here that G: F: by thoſe words <hi>[which was Propheſie<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2281,7 +2282,7 @@ was propheſied of, but now is fulfilled, called <hi>George Fox;</hi>
                      </gap>mble,</hi> ſee <hi>Jerom:</hi> 16: 15 &amp; 31: 8. Neither do we find in that book called <hi>News out of the North,</hi> any thing that had the leaſt tendency of giving particularly any news out of the <hi>North</hi> litterally ſpeaking, ſo that, to conclude, we find it a pie<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap> of baſe forgery in D. L: Firſt, to add thoſe words [called <hi>George Fox</hi>] and ſecondly, that he added them nineteen words, before the paſſage was
-<pb n="70" facs="tcp:001230_0069_0FB17DB02E26D1C0"/>
+<pb n="70" facs="unknown:001230_0069_0FB17DB02E26D1C0"/>
 ended, to which he added them, and then quite leaving out the ſaid part. For all which publick abuſes <hi>he ought to make publick ſatisfaction.</hi>
                </p>
                <p>Again in his <hi>January</hi> month 1704. D: L: hath it expreſsly thus. <q>The Scriptures (ſaith <hi>Francis Howgil)</hi> are the Attire of the Whore, of falſe Church, which brings none to know God <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -2299,7 +2300,7 @@ ended, to which he added them, and then quite leaving out the ſaid part. For al
                      </gap>ll the Faith and Worſhip, that ſince is ſprung up, ſince the Whore hath ſitten as a Queen in Majeſty, is all de<g ref="char:EOLhyphen"/>ni'd <hi>the Ground of her Worſhip, Laws, Traditions, Inventions, and all their Invented Practices and Forms, and Images, and Likeneſſes are de<g ref="char:EOLhyphen"/>nied and disowned, as to be the dreſs and attire of the whore, which hath <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> people through her enticing pretences, and ſhews of holineſs;</hi> when indeed all is but ſpiritual adultery, and this muſt be all turned
-<pb n="71" facs="tcp:001230_0070_0FB17DB2414B6FA8"/>
+<pb n="71" facs="unknown:001230_0070_0FB17DB2414B6FA8"/>
 under again, the Whore's fleſh burned, and her attire plucked off, and her nakedneſs appear, and her ſhame to them that have committed for<g ref="char:EOLhyphen"/>nication with her, and they ſhall be aſhamed of themſelves and of her, and abh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>r themſelves, and abhor her, and deſtroyed ſhall ſhe be; and the Lambs Wife ſhall be beautified and come out of the ſecret place into open view, out of the Solitary wilderneſs, into the beautiful place, that the Lord will bring<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2320,7 +2321,7 @@ under again, the Whore's fleſh burned, and her attire plucked off, and her nake
                   </gap>.</p>
                <p>
                   <q>Some of our Adverſaries, as the <hi>Snake</hi> page 115. pretended to give
-<pb n="72" facs="tcp:001230_0071_0FB17DB3D37D45E8"/>
+<pb n="72" facs="unknown:001230_0071_0FB17DB3D37D45E8"/>
 ſome pieces of it, [meaning the aforeſaid Letter] but have contradicted one another as to the matter of it, by which contradiction in terms it is fully ſhewn that they could not all be right, as they pretended they were. Again ſaith he, "this pretended Letter from <hi>John Aud<g ref="char:EOLhyphen"/>land</hi> to G: F: was not ſo well contrived, but the forgers who have here<g ref="char:EOLhyphen"/>tofore given it with a date, have made it bear date from <hi>Briſtoll</hi> Anno 1665. this was a very unlucky overſight, which as it cannot now be mended, ſo it abſolutely overthrows the pretence of it's being his, be<g ref="char:EOLhyphen"/>cauſe <hi>John Audland</hi> was buried in <hi>Weſtmoreland</hi> the 24 of the firſt month 1663, being the laſt day of that year, ſo that it appears he was dead about two years before the date of the pretended Letter.</q>
                </p>
                <p>Now obſerve, ſince D: L: hath expreſly called it <hi>John Audland's</hi> Letter to G: F: upon our diſowning and denying it to be ſo upon ſuch good grounds as above, he ought to prove it as well as charge, and until he ſo do, how can we eſteem him leſs than a falſe accuſer of us herein alſo; and fo as that for which he <hi>ought to make ſatisfaction.</hi>
@@ -2331,7 +2332,7 @@ under again, the Whore's fleſh burned, and her attire plucked off, and her nake
                <p>Obſerve, tho' D: L: in his <hi>Almanack</hi> 1705 diſowns that he quoted thoſe above words, as <hi>Joſiah Coals</hi> words yet we appeal to the conſide<g ref="char:EOLhyphen"/>rate and impartial reader, whether as he had cra<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>tily worded the above paſſage, unleſs any had otherwiſe known the contrary they could be any otherwiſe taken than <hi>for Joſiahs words;</hi> and they were taken as ſuch, tho' they were the words of a <hi>Papiſt,</hi> and cited by <hi>Joſiah Coale,</hi> as part of a whole Chapter, containing about three pages in quarto of the <hi>Pa<g ref="char:EOLhyphen"/>piſt</hi> (but not above five lines about the Bible) whoſe book againſt the Proteſtants or Sectarian Miniſters, as the ſaid <hi>Papiſt</hi> called them, <hi>Joſiah</hi> had there anſwered; and there being in that particular Chapter ſuch matters contained againſt other Proteſtants, as about their <hi>Miniſters Com<g ref="char:EOLhyphen"/>miſſion, the King being ſupreme head of the Church, ſinging Pſalms &amp;c:</hi> which we neither held nor practiced, and that was therefore more proper for them to anſwer than for him, which he left for them to do if they thought good. But now if D: L: had not cited that part of the ſaid re<g ref="char:EOLhyphen"/>cited <hi>Papiſt</hi>'s Chapter, which ſo contumpteouſly ſpoke of the Bible on
-<pb n="73" facs="tcp:001230_0072_0FB17DB4B73C6950"/>
+<pb n="73" facs="unknown:001230_0072_0FB17DB4B73C6950"/>
 purpoſe, to make it look like <hi>Joſiah's words,</hi> but the Papiſt's words, why was he not ſo plain as to tell whoſe words they were? <hi>three words more would have done it'</hi> And further, why did he not, ſince he now implicitly pretends he cited them as the Papiſt's words, cite them truly as they ſtand in the ſaid <hi>Joſiah's</hi> book? no, then he muſt have cited them, (being the Papiſt's words) confounding <hi>Singular and plural;</hi> for thus they ſtand in the Papiſt's Chapter, viz: <hi>Reader conſider with your ſelf &amp;c:</hi> which ſo to confound ſingular and plural is not the Quakers way of ſpeaking, ſo that he might well know that to have ſo t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>uly cited it, would the eaſier have diſcovered the trick. But <hi>D: L</hi>'s falſe citation is, <hi>conſider with your ſelves,</hi> to which he adds, [ſaith he] to make it look juſt like our friend <hi>Joſiah's words</hi> and language, plainly ſhewing it was <hi>Joſiah</hi> that he would be thought to have meant, for no other [he] was he ſpeaking about, ſo that all his ſhifts and quiblings are too ſhort to cover his baſeneſs, and ſo we alſo charge D: L: with being a baſe and falſe inſinuater againſt us, for which in juſtice he ought alſo <hi>to acknowledge his fault.</hi>
@@ -2365,7 +2366,7 @@ purpoſe, to make it look like <hi>Joſiah's words,</hi> but the Papiſt's words
                      </gap>ing &amp;c:</q>
                </p>
                <p>Obſerve, as much of this paſſage is to be read and underſtood in a Spi<g ref="char:EOLhyphen"/>ritual ſenſe, ſo it was written in an Epiſtle by <hi>Edward Burrough,</hi> when he was in the Service of the Miniſtry in <hi>Ireland,</hi> and was directed <hi>to the
-<pb n="74" facs="tcp:001230_0073_0FB17DB627AB4DD0"/>
+<pb n="74" facs="unknown:001230_0073_0FB17DB627AB4DD0"/>
 Camp of the Lord in England,</hi> to whom he writ in general<g ref="char:punc">▪</g> but as in the North of <hi>England,</hi> his native place, the clear manifeſtation of the Truth did firſt moſt eminently break <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> 
@@ -2407,7 +2408,7 @@ Camp of the Lord in England,</hi> to whom he writ in general<g ref="char:punc">�
                         <desc>•</desc>
                      </gap> 9, 10.</p>
                   <p>
-                     <pb n="75" facs="tcp:001230_0074_0FB17DB861FA7C80"/>"<hi>Object: Ge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="75" facs="unknown:001230_0074_0FB17DB861FA7C80"/>"<hi>Object: Ge<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> Fox</hi> ſaid the Scripture was Carnal.</p>
                   <p>
@@ -2438,7 +2439,7 @@ Camp of the Lord in England,</hi> to whom he writ in general<g ref="char:punc">�
                   </gap>nte<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>h it ſelf, is guilty of, concerning all or any of which we do not remember he hath made any reply, except about his quibling about <hi>Joſiah Coal,</hi> and of his ſo very falſly accuſing W: P: from page 20 of <hi>San<g ref="char:EOLhyphen"/>dy Foundation,</hi> of calling Chriſt as man, the finite and impotent Creature
-<pb n="76" facs="tcp:001230_0075_0FB17DB941C7F2A8"/>
+<pb n="76" facs="unknown:001230_0075_0FB17DB941C7F2A8"/>
 Therefore it's but a poor Evaſion in him to ſay, as he doth in his Alma<g ref="char:EOLhyphen"/>nack <hi>January</hi> month 1705. that it's almoſt too late in the day <hi>to give <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>articular Anſwers to ſuch ſtuff.</hi> An idle, tho' confident evaſion (as if he had from time to time r<gap reason="illegible" resp="#PDCC" extent="1 letter">
